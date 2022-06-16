@@ -11,7 +11,8 @@ const routes = [
       { path: '/skills', component: () => import('pages/skills.vue') },
       { path: '/socialNetwork', component: () => import('pages/socialNetwork.vue') },
       { path: '/portfolio', component: () => import('pages/Portfolio.vue') },
-      { path: '/experience', component: () => import('pages/Experience.vue') }
+      { path: '/experience', component: () => import('pages/Experience.vue') },
+      { path: '/resume', component: () => import('pages/resume.vue') }
     ]
   },
 

@@ -76,6 +76,16 @@
             <q-item-label header class="text-white  text-subtitle2">
               Education
             </q-item-label>
+
+
+          </q-item>
+          <q-item to="/resume" active-class="q-item-no-link-highlighting">
+
+            <q-item-label header class="text-white  text-subtitle2">
+              Resume English
+            </q-item-label>
+
+
           </q-item>
         </q-list>
       </q-drawer>

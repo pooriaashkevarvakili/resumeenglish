@@ -48,6 +48,19 @@
         </a>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-3 col-lg-3 col-xs-12 col-sm-12 q-mt-sm">
+        <a href="https://portfolionuxt.surge.sh/" style="text-decoration: none;color:#000">
+          <q-card style="height:330px">
+            <q-card-section>
+              <img class="q-ml-lg" src="nuxt.png" style="width:200px" alt="">
+              <div class="flex flex-center q-mt-lg">I made a small one that I made with vue vuex tailwind </div>
+
+            </q-card-section>
+          </q-card>
+        </a>
+      </div>
+    </div>
   </div>
 </template>
 
