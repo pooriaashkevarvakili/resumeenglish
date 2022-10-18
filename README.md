@@ -22,3 +22,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+this project vuejs quasar build
+ 
+http://resumeenglish.surge.sh/#/
